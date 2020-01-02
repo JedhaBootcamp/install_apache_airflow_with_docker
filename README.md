@@ -4,4 +4,6 @@
 2. Clone this Github repository
 3. Run `docker-compose up --build`
 4. Open a Browser and go to `http://localhost:8080`
+5. Run the DAG called `Tutorial`
+
 
